@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m/MlTxvUiAYpleGM+arwN1nQ02fpoMJqPF6K1fAQQMo=",
+  "Source": "CustomLogger.WebAPI",
+  "BasePath": "_content/CustomLogger.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

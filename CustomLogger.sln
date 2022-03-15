@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLogger.Core", "CustomLogger.Core\CustomLogger.Core.csproj", "{96A23DF5-8E14-44BA-9C39-EA705FEF3361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLogger.WebAPI", "CustomLogger.WebAPI\CustomLogger.WebAPI.csproj", "{97972D11-1F07-42D8-89D7-C5E61B13B3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A23DF5-8E14-44BA-9C39-EA705FEF3361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A23DF5-8E14-44BA-9C39-EA705FEF3361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A23DF5-8E14-44BA-9C39-EA705FEF3361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A23DF5-8E14-44BA-9C39-EA705FEF3361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97972D11-1F07-42D8-89D7-C5E61B13B3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97972D11-1F07-42D8-89D7-C5E61B13B3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97972D11-1F07-42D8-89D7-C5E61B13B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97972D11-1F07-42D8-89D7-C5E61B13B3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8887B29-4109-41F6-B239-950E971C636D}
+	EndGlobalSection
+EndGlobal
